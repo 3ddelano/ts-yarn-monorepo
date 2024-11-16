@@ -1,0 +1,15 @@
+{
+  "name": "delano-tatsumi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Delano Lourenco",
+  "license": "ISC",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4"
+  }
+}
